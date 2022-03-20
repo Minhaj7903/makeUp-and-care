@@ -1,0 +1,145 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+/* 1st section */
+.about-mackup{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.about-site{
+    width: 50%;
+    padding-left: 5%;
+    margin:20px;
+}
+.about-site img{
+    width: 80%;
+    
+}
+h1{
+    font-size:60px;
+}
+h2{
+    font-size:40px;
+}
+span{
+    color:orange
+}
+.mackup{
+    color:#F67280;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: #F75D59;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.border-gradient{
+    padding-left: 10px;
+    border-left: 5px solid;
+    border-color: #F75D59;
+    border-radius: 2px;
+}
+p{
+    margin-bottom: 30px;
+}
+h4{
+    margin-top: 40px;
+}
+/* 2nd section */
+.mackup-products{
+    display: flex;
+    margin-left:40px ;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+.product-headline{
+    text-align:center;
+}
+.product1{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: #C9DFEC;
+}
+.product2{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: #FFDAB9;
+}
+.product3{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: #FFEBCD;
+}
+.product-info{
+    padding: 20px;
+   
+}
+/* 2nd section */
+.mackup-information{
+    display: flex;
+    margin-bottom: 30px;
+}
+.mackup-idea{
+width: 200%;
+padding-left:10%;
+margin: 30px;
+}
+.mackup-idea img{
+width: 70%;
+
+}
+/*  4th section */
+.about-liea{
+    width: 50%;
+    padding-left: 5%;
+    margin:20px;
+}
+.about-liea img{
+    width: 80%;
+    border-radius: 20px;
+    
+}
+/* 5th section */
+.about-order{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.contact{
+    text-align: center;
+    height: 350px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: #FFDAB9;
+}
+.order-info{
+    width: 80%;
+    padding-left: 5%;
+    margin:20px;
+}
+.order-info img{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+}
+.order-button{
+    width: 100px;
+    color: white;
+    background-color: #F75D59;
+    padding: 10px;
+    border-radius: 5px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 100px;
+}
